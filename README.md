@@ -191,7 +191,7 @@ This project is an University Event Management built using Spring Boot. It provi
 
 We would like to express our gratitude to the following individuals and projects for their contributions and support to the University Event Management :
 
-- **[Vishal Raj]**: Lead developer and project coordinator.
+- **[Shubham Tawade]**: Lead developer and project coordinator.
 - **[Mainak Ghosh]**: Contributor to the project, helping with [SpringBoot to complete this project].
 - **[maven]**: We utilized [maven] for [dependencies] in our project.
 - **Stack Overflow Community**: For their invaluable assistance in resolving technical challenges.
@@ -204,6 +204,6 @@ We appreciate the  effort and support that made this project possible.
 
 ## Support
 
-For support, email vishalrajbanti@gmail.com.
+For support, email shubhamtawade1435@gmail.com.
 
 ## thank you.
